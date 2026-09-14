@@ -1,5 +1,5 @@
 ---
-title: "Scaling at the edge: it’s about volume and distance"
+title: Scaling at the edge is about volume and distance
 date: 2026-09-14T15:33:00.000Z
 author: Mark B. Simpkins
 authorimage: /img/mbs-pic-git.jpg
@@ -92,8 +92,6 @@ it is easier to overlook.
 A useful question is how often
 routine work will require someone on site, and what it will take to reduce
 those visits.
-
-
 
 ## Scaling is an operating model, not a server count
 
